@@ -1,0 +1,2 @@
+I am branching out to machine learning after working as a web developer.
+I also worked with mobile applications using flutter.
